@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿global using static System.Console;
+using SharpenCS11.Algos.Sorts;
 
-Console.WriteLine("Sharpen the sharp!...");
+
+WriteLine("Sharpen the sharp!...");
+
+QuickSortDemoType.Demo();
