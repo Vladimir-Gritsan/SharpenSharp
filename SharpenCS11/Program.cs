@@ -4,4 +4,8 @@ using SharpenCS11.Algos.Sorts;
 
 WriteLine("Sharpen the sharp!...");
 
-QuickSortDemoType.Demo();
+var input = ReadLine();
+WriteLine(input);
+int[] arr = { 1, 2, 3, };
+
+//QuickSortDemoType.Demo();
